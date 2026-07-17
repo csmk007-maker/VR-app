@@ -38,3 +38,4 @@ obj/
 .gradle/
 build/
 app/build/
+*.apk
